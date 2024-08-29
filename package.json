@@ -1,0 +1,15 @@
+{
+  "name": "node-js-course",
+  "version": "1.0.0",
+  "description": "NodeJS code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Padam Chhetri",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
