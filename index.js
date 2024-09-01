@@ -1,4 +1,4 @@
-// const app=require('./app') // import the file
+// const app=require('./app') // import the file from app.js
 
 // const arr=[2,3,4,5,6];
 // console.log(app.z());
