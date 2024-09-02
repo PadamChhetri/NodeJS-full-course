@@ -18,7 +18,6 @@ app.get('/about',(req,res)=>{
     `<input type="text", placeholder="username" value="${req.query.name}"/>
     <button>send</button>
     <a href='/'> Go to about page </a>
-
   `);
  })
 
