@@ -31,15 +31,14 @@ const dirPath=path.join(__dirname,'CRUD');
 
 const filepath=`${dirPath}/apple.txt`;
 
-//
+
 fs.writeFileSync(filepath,'This is a simple file path ');
 
-//
+
 // fs,fs.readFile(filepath,'utf8',(err,item)=>{
 // console.log(item);
 // })
 
-//
 // fs.appendFile(filepath,'and file name is apple.txt',(err)=>{
 //   if(!err) console.log('file is updated');
 // });
