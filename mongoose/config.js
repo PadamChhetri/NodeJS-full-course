@@ -1,6 +1,3 @@
-//model files
-const exoress=require("express");
+//url connect files
+const mongoose=require("mongoose");
 mongoose.connect("mongodb://localhost:27017/e-comm");
-const product=require('./cproduct');
-
-const app=express();
