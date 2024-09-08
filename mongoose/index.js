@@ -3,8 +3,8 @@
 const express=require("express");
 require("./config");
 const Product=require('./product');
-const product = require("./product");
 const app=express();
+
 app.use(express.json())
 
 
